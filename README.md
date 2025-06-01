@@ -33,7 +33,7 @@ A smart IoT-based door locking system developed using Arduino, allowing users to
 - Wi-Fi support for remote unlocking.
 
 ## Files
-- `ArduinoCode/Project.ino` - Main Arduino sketch.
+- Project.ino - Main Arduino sketch.
 - `Presentation/Smart_Pin_Lock_PPT.pdf` - Project presentation.
 - `CircuitDiagram/Smart_Lock_Circuit.png` - Optional, upload if available.
 
