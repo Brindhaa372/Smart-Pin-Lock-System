@@ -34,8 +34,7 @@ A smart IoT-based door locking system developed using Arduino, allowing users to
 
 ## Files
 - (https://raw.githubusercontent.com/Brindhaa372/Smart-Pin-Lock-System/refs/heads/main/Project.ino) - Main Arduino sketch.
-- `Presentation/Smart_Pin_Lock_PPT.pdf` - Project presentation.
-- `CircuitDiagram/Smart_Lock_Circuit.png` - Optional, upload if available.
+- Smart pin lock system Presentation.pdf - Project presentation.
 
 
 
